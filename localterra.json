@@ -1,0 +1,31 @@
+{
+  "contracts": {
+    "gov": "terra1t34egcpyadsd0d0wy3drmvf7vl34xrrw99w85l",
+    "mirrorToken": "terra1jqpw0mvw0jwmt70we577h8sseuyl97p2rp6euv",
+    "factory": "terra1we000pjx37v4lnjkcl8n04uencz9prm55g3gyu",
+    "oracle": "terra1e229t9nhqrptl2lyx2c9zpsqhznccfdqu9yejg",
+    "mint": "terra1rcccurg02cyv53uhkf553psmwkrh9vnlhn6ysh",
+    "staking": "terra1hptcfadf5snj5rl88ffcn4m7w2sr0c46u4qkp2",
+    "tokenFactory": "terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf",
+    "collector": "terra10p86muuucx8q5l6fd3vye087z9hyfg5tdmjmv5",
+    "community": "terra1qxv6v2skm779ac5pqphgeknhsysuqd07344esz"
+  },
+  "whitelist": {
+    "terra1jqpw0mvw0jwmt70we577h8sseuyl97p2rp6euv": {
+      "symbol": "MIN",
+      "name": "Minnor",
+      "token": "terra1jqpw0mvw0jwmt70we577h8sseuyl97p2rp6euv",
+      "pair": "terra18pg9007utf5aggdgtpftgtu5k8yc5cvn6tpczl",
+      "lpToken": "terra1fjtydpc8hsgy2er36h4st6aur6g625e02sltqc",
+      "status": "LISTED"
+    },
+    "terra1ecs880ztcdajhp9rz3wqklusfmj45ecernhnnh": {
+      "symbol": "mAAPL",
+      "name": "Apple",
+      "token": "terra1ecs880ztcdajhp9rz3wqklusfmj45ecernhnnh",
+      "pair": "terra1ehhc3wlpqn790ky9fws8vf3pmc8emvrtkgp2af",
+      "lpToken": "terra1djspjy6c35tx83uqxvgujf2rtkevywpt049wfw",
+      "status": "LISTED"
+    }
+  }
+}

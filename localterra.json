@@ -26,6 +26,14 @@
       "pair": "terra1ehhc3wlpqn790ky9fws8vf3pmc8emvrtkgp2af",
       "lpToken": "terra1djspjy6c35tx83uqxvgujf2rtkevywpt049wfw",
       "status": "LISTED"
+    },
+    "terra1juk7luesd8ese54j0lt9mya90ttpj87t4hvm0l": {
+      "symbol": "mTONY",
+      "name": "Tony",
+      "token": "terra1juk7luesd8ese54j0lt9mya90ttpj87t4hvm0l",
+      "pair": "terra1aud4ck0z0drcl09tfrz3aey6dnzle2ej33e9gy",
+      "lpToken": "terra1s0fkkjuqc7rr84p0t0nn6g0ahmv0wcvcaky66p",
+      "status": "LISTED"
     }
   }
 }

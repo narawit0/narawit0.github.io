@@ -1,22 +1,29 @@
 {
   "contracts": {
-    "gov": "terra1fnjcjtq3vctdcc065weweduenx6rreh4vaarv2",
-    "mirrorToken": "terra1dm5xpd0x4e30p0pnpcuhazknw954eljlfc8zqr",
-    "factory": "terra1jyz4a7qq2fthwjlxrzpr2wh62egh7j4rwkkngr",
-    "oracle": "terra12wvcn3gunx2qjzp0v2dg9g8syy2aj4jxsdejxp",
-    "mint": "terra1a8sctffzwe9ye6q9kd0yty978f3d6zf5hp3zfd",
-    "staking": "terra1sq88g8yjvf5hdugjscmqz6zs8mlya3hv3fur76",
+    "gov": "terra1e4zazl4675rz63pafnz3wkx66z6e9ytfkcywu8",
+    "mirrorToken": "terra1hv3844nke0teh3fher5nc4mpuj454768pkthd7",
+    "factory": "terra1588c0045s5z0lcfp5hncwalfxm3w96nnmlxhhx",
+    "oracle": "terra1d93atj2vlpatgvt9c4ka599yqhpwcccccl7fnz",
+    "mint": "terra17rwzgu8xjp92e5mm7wlwemzcu9ee2yuvyfss87",
+    "staking": "terra1v7v886wgkcygk6x4uqufpcz4dlmsafh2a2t788",
     "tokenFactory": "terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf",
-    "collector": "terra1xx89k59vweny2r2ck634gk75avk8slryvrl04g",
-    "community": "terra1zrh3yz60hd3n68j5trgp0e20v6n635elgdljzj"
+    "collector": "terra12hneka3har5k6jqgckp4xseul8u0thw0dqwt42",
+    "community": "terra1wey6gtlmm97pel43td8kxg30x4ku00qff496p7"
   },
   "whitelist": {
-    "terra1rnw7f55k7762nvdalyh4y5ku6ya6hct32quxcv": {
+    "terra1hv3844nke0teh3fher5nc4mpuj454768pkthd7": {
+      "symbol": "MIN",
+      "name": "Minor",
+      "token": "terra1hv3844nke0teh3fher5nc4mpuj454768pkthd7",
+      "pair": "terra1l5ej58wh74wf3hqk5n6fcwtfjz9rcd8f8qcpez",
+      "lpToken": "terra13qsdee8dy53x2a9s2cg8khqv6pfpsh9x8td4mn"
+    },
+    "terra1ywgm4msvsjpuz5zsh60kqtdefts664rnfm22mj": {
       "symbol": "mTONY",
       "name": "Tony",
-      "token": "terra1rnw7f55k7762nvdalyh4y5ku6ya6hct32quxcv",
-      "pair": "terra10x248as5yel77cw0hew52vpra34w3excnq7xw7",
-      "lpToken": "terra1z07adx3ydx6pk52920m0atzqjjzwl6zwejvsst",
+      "token": "terra1ywgm4msvsjpuz5zsh60kqtdefts664rnfm22mj",
+      "pair": "terra17q84rnya8tqmyupghr7s7qf0hndcer50yq6zer",
+      "lpToken": "terra13c2r3u0rxkt6ph730faykc89hjqfkf8j509apt",
       "status": "LISTED"
     }
   }

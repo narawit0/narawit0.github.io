@@ -26,6 +26,14 @@
       "pair": "terra1v4az49u04ylqnq2cxe80qzju9ehcz8qurtjslq",
       "lpToken": "terra1cpjlsc9cn9hrxg2g6645g7728kmjx92dfvnn8d",
       "status": "LISTED"
+    },
+    "terra1mtzamuej3xlef24znfgtq504nepev5j8dyuwpe": {
+      "symbol": "mTSLA",
+      "name": "Tesla Inc.",
+      "token": "terra1mtzamuej3xlef24znfgtq504nepev5j8dyuwpe",
+      "pair": "terra1cd9d7vgg3fjxnxfdq0p6cqe2cprdqrpz7gahsa",
+      "lpToken": "terra1j0cmnawmm0f8s82c3k4s9geydazvfctc2dcqqf",
+      "status": "LISTED"
     }
   }
 }

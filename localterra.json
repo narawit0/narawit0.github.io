@@ -1,30 +1,30 @@
 {
   "contracts": {
-    "mirrorToken": "terra1vrlnjr9fydd52kny23v8exzj87ca72slmdy8ld",
-    "gov": "terra164c44cmsqxl7kysnq8tl2r9xsf6lv4kz7x8mng",
-    "factory": "terra1ng0jhhcqsyv8ppkkknsftgn0u35r42r00vdfhm",
-    "oracle": "terra1l7y4et2tdg4laxnkzjyh7q2hl3ujr49lpzh422",
-    "staking": "terra1gxh0vzwu8xz27xv5ydula7770jp82n49fsmg53",
-    "collector": "terra1ryzw6qquhks2zkpudmd5jnddpvl60c87d77kk5",
-    "mint": "terra1zs6msz2wpxn4mehs3pa5hxn57f2296s77wt2mg",
-    "community": "terra1es2ujjadja2suj68jxahcrn87j0ceykw5yujwl",
+    "mirrorToken": "terra1mzkf0ns3m2lypxgyqyfqd9u303y5ux97whtvlx",
+    "gov": "terra1jgsmpy3dh579p0r300puaqzp5l45wuc8lu0uyq",
+    "factory": "terra13kc0e0l2tamgjmywgd96u5ayy5zfvnvwckqzq4",
+    "oracle": "terra1qwclspw0lgza2uwct7qegqpvhjw25r68pxjutm",
+    "staking": "terra1mjw4rhqma39wn5g8aqxdkxxsx5ujgm3jvrn2lm",
+    "collector": "terra1t62rawnn249vpqwxe4jgak9xkrw9p2kwjq6s9n",
+    "mint": "terra1rtck8pp2kc9y6pg98n56uyasd69skg26zxyu3w",
+    "community": "terra1832wys9wsz0vfch7mwuwx46lv0l05jm9z39yek",
     "tokenFactory": "terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf"
   },
   "whitelist": {
-    "terra1vrlnjr9fydd52kny23v8exzj87ca72slmdy8ld": {
+    "terra1mzkf0ns3m2lypxgyqyfqd9u303y5ux97whtvlx": {
       "symbol": "MIN",
       "name": "Minor",
-      "token": "terra1vrlnjr9fydd52kny23v8exzj87ca72slmdy8ld",
-      "pair": "terra1trepmy72jaz94xkypqtsdw0ugmh3l3h87rd53m",
-      "lpToken": "terra1peq75fnjjus7st3g2sntvxsqwvp244ew0j4ngk",
+      "token": "terra1mzkf0ns3m2lypxgyqyfqd9u303y5ux97whtvlx",
+      "pair": "terra104r7ezs875gjy6c3fhz9fq0kdl3npw0vkyq66d",
+      "lpToken": "terra19swm95gahdfd4f427fjz9pu9jhg97nt8a0qx2g",
       "status": "LISTED"
     },
-    "terra18f9ee44fkalyn3q8k3qgpj7nm8za0axacjxf62": {
+    "terra1jjjagfx23es3ff6rmnnfxn6nyewm9nw8tj0p8v": {
       "symbol": "mTONY",
       "name": "Tony",
-      "token": "terra18f9ee44fkalyn3q8k3qgpj7nm8za0axacjxf62",
-      "pair": "terra1nn54l2388ekh5jy5h6dqw5csyg2q7ke2nyhu8f",
-      "lpToken": "terra1x6snpkcjfd29zwhnz8ev54u88lt63xu9pqgz9m",
+      "token": "terra1jjjagfx23es3ff6rmnnfxn6nyewm9nw8tj0p8v",
+      "pair": "terra1ekfv6pyvjl5z92r83lce9jdvs23e7ncjvckuzw",
+      "lpToken": "terra123v4vaxshy305zn4aq3t7y72a8yyue25tckvkf",
       "status": "LISTED"
     }
   }

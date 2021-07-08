@@ -1,38 +1,30 @@
 {
   "contracts": {
-    "gov": "terra1emcjapfds6tfvvucshvd6w2fvrued0l36gjrg9",
-    "mirrorToken": "terra1q6u5c6a7685dj7ur87zj2tfu5npxgwqylk72de",
-    "factory": "terra1mgq7uxca0tpccf3egm65petzha3q9my6t36spe",
-    "oracle": "terra1ww2udemkydvemu9pc9q6lww7w6ey479wdlvjuh",
-    "mint": "terra102h2v355wg0z6pdjgsls5n960kak4evuj55azz",
-    "staking": "terra1udxwytmapxn434k39d5knnlz46uuhdf3tgytu0",
-    "tokenFactory": "terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf",
-    "collector": "terra1wpc8q7w88222uc55thnddwg03ngt3as6cska9q",
-    "community": "terra107ew80tu8d8xlt8k4407qvg24s53jkud09uc73"
+    "mirrorToken": "terra1vrlnjr9fydd52kny23v8exzj87ca72slmdy8ld",
+    "gov": "terra164c44cmsqxl7kysnq8tl2r9xsf6lv4kz7x8mng",
+    "factory": "terra1ng0jhhcqsyv8ppkkknsftgn0u35r42r00vdfhm",
+    "oracle": "terra1l7y4et2tdg4laxnkzjyh7q2hl3ujr49lpzh422",
+    "staking": "terra1gxh0vzwu8xz27xv5ydula7770jp82n49fsmg53",
+    "collector": "terra1ryzw6qquhks2zkpudmd5jnddpvl60c87d77kk5",
+    "mint": "terra1zs6msz2wpxn4mehs3pa5hxn57f2296s77wt2mg",
+    "community": "terra1es2ujjadja2suj68jxahcrn87j0ceykw5yujwl",
+    "tokenFactory": "terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf"
   },
   "whitelist": {
-    "terra1q6u5c6a7685dj7ur87zj2tfu5npxgwqylk72de": {
+    "terra1vrlnjr9fydd52kny23v8exzj87ca72slmdy8ld": {
       "symbol": "MIN",
       "name": "Minor",
-      "token": "terra1q6u5c6a7685dj7ur87zj2tfu5npxgwqylk72de",
-      "pair": "terra16jpusmwe85pdy2nlt5u66ceu38v9tycngr4w5v",
-      "lpToken": "terra1dy2x0hzg6zyv9pp4dmf4stmj5mwjmxs4lalcxg",
+      "token": "terra1vrlnjr9fydd52kny23v8exzj87ca72slmdy8ld",
+      "pair": "terra1trepmy72jaz94xkypqtsdw0ugmh3l3h87rd53m",
+      "lpToken": "terra1peq75fnjjus7st3g2sntvxsqwvp244ew0j4ngk",
       "status": "LISTED"
     },
-    "terra1hqttzma4kcxagdmapardhu6fxmrpntee5urr7p": {
+    "terra18f9ee44fkalyn3q8k3qgpj7nm8za0axacjxf62": {
       "symbol": "mTONY",
       "name": "Tony",
-      "token": "terra1hqttzma4kcxagdmapardhu6fxmrpntee5urr7p",
-      "pair": "terra1v4az49u04ylqnq2cxe80qzju9ehcz8qurtjslq",
-      "lpToken": "terra1cpjlsc9cn9hrxg2g6645g7728kmjx92dfvnn8d",
-      "status": "LISTED"
-    },
-    "terra1mtzamuej3xlef24znfgtq504nepev5j8dyuwpe": {
-      "symbol": "mTSLA",
-      "name": "Tesla Inc.",
-      "token": "terra1mtzamuej3xlef24znfgtq504nepev5j8dyuwpe",
-      "pair": "terra1cd9d7vgg3fjxnxfdq0p6cqe2cprdqrpz7gahsa",
-      "lpToken": "terra1j0cmnawmm0f8s82c3k4s9geydazvfctc2dcqqf",
+      "token": "terra18f9ee44fkalyn3q8k3qgpj7nm8za0axacjxf62",
+      "pair": "terra1nn54l2388ekh5jy5h6dqw5csyg2q7ke2nyhu8f",
+      "lpToken": "terra1x6snpkcjfd29zwhnz8ev54u88lt63xu9pqgz9m",
       "status": "LISTED"
     }
   }
